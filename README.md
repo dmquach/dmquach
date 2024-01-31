@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dylan Quach</h1>
 <h3 align="center">A passionate fullstack Developer from San Jose, California.</h3>
+<h3>I would love to chat with you about myself and any of my projects!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
