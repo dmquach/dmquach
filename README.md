@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dylan Quach</h1>
 <h3 align="center">A passionate fullstack Developer from San Jose, California.</h3>
-<h3 align="center">Hi there! I'm [Your Name], and I'm embarking on an exciting journey transitioning from the dynamic world of food service into the ever-evolving realm of technology. With a background deeply rooted in delivering exceptional customer experiences and managing fast-paced environments, I bring a unique perspective to the tech industry.
+<h4 align="center">Hi there! I'm Dylan, and I'm embarking on an exciting journey transitioning from the dynamic world of food service into the ever-evolving realm of technology. With a background deeply rooted in delivering exceptional customer experiences and managing fast-paced environments, I bring a unique perspective to the tech industry.
 
-Driven by a passion for problem-solving and innovation, I am eagerly immersing myself in learning new skills and technologies to make a meaningful impact. My adaptability, attention to detail, and ability to thrive under pressure are assets that I'm ready to leverage in this new chapter of my career.</h3>
+Driven by a passion for problem-solving and innovation, I am eagerly immersing myself in learning new skills and technologies to make a meaningful impact. My adaptability, attention to detail, and ability to thrive under pressure are assets that I'm ready to leverage in this new chapter of my career.</h4>
 
 <h3 align="center">I would love to chat with you about myself and any of my projects!</h3>
 
