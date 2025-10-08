@@ -19,6 +19,12 @@ Driven by a passion for problem-solving and innovation, I am eagerly immersing m
 
 ### I would love to chat with you about myself and any of my projects!
 
+🔗 Check out my personal portfolio:
+
+<a href="https://dmquach.github.io/DylanQuachPortfolio/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/View%20Portfolio-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Dylan Quach Portfolio" />
+</a>
+
 ---
 
 ### Languages and Tools:
