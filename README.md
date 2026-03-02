@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dylan Quach
+# Hi, I'm Dylan Quach
 
 ### A passionate Software Engineer from San Jose, California.
 Hi there! I'm Dylan, and I'm embarking on an exciting journey transitioning from the dynamic world of food service into the ever-evolving realm of technology. With a background deeply rooted in delivering exceptional customer experiences and managing fast-paced environments, I bring a unique perspective to the tech industry.
